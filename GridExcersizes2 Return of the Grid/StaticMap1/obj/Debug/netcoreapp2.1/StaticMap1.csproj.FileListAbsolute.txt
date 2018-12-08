@@ -1,0 +1,22 @@
+C:\Users\Ethan\source\repos\GridExcersizes\StaticMap1\obj\Debug\netcoreapp2.1\StaticMap1.csprojAssemblyReference.cache
+C:\Users\Ethan\source\repos\GridExcersizes\StaticMap1\obj\Debug\netcoreapp2.1\StaticMap1.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\source\repos\GridExcersizes\StaticMap1\obj\Debug\netcoreapp2.1\StaticMap1.AssemblyInfoInputs.cache
+C:\Users\Ethan\source\repos\GridExcersizes\StaticMap1\obj\Debug\netcoreapp2.1\StaticMap1.AssemblyInfo.cs
+C:\Users\Ethan\source\repos\GridExcersizes\StaticMap1\bin\Debug\netcoreapp2.1\StaticMap1.deps.json
+C:\Users\Ethan\source\repos\GridExcersizes\StaticMap1\bin\Debug\netcoreapp2.1\StaticMap1.runtimeconfig.json
+C:\Users\Ethan\source\repos\GridExcersizes\StaticMap1\bin\Debug\netcoreapp2.1\StaticMap1.runtimeconfig.dev.json
+C:\Users\Ethan\source\repos\GridExcersizes\StaticMap1\bin\Debug\netcoreapp2.1\StaticMap1.dll
+C:\Users\Ethan\source\repos\GridExcersizes\StaticMap1\bin\Debug\netcoreapp2.1\StaticMap1.pdb
+C:\Users\Ethan\source\repos\GridExcersizes\StaticMap1\obj\Debug\netcoreapp2.1\StaticMap1.dll
+C:\Users\Ethan\source\repos\GridExcersizes\StaticMap1\obj\Debug\netcoreapp2.1\StaticMap1.pdb
+C:\Users\Ethan\source\repos\GridExcersizes2 Return of the Grid\StaticMap1\bin\Debug\netcoreapp2.1\StaticMap1.deps.json
+C:\Users\Ethan\source\repos\GridExcersizes2 Return of the Grid\StaticMap1\bin\Debug\netcoreapp2.1\StaticMap1.runtimeconfig.json
+C:\Users\Ethan\source\repos\GridExcersizes2 Return of the Grid\StaticMap1\bin\Debug\netcoreapp2.1\StaticMap1.runtimeconfig.dev.json
+C:\Users\Ethan\source\repos\GridExcersizes2 Return of the Grid\StaticMap1\bin\Debug\netcoreapp2.1\StaticMap1.dll
+C:\Users\Ethan\source\repos\GridExcersizes2 Return of the Grid\StaticMap1\bin\Debug\netcoreapp2.1\StaticMap1.pdb
+C:\Users\Ethan\source\repos\GridExcersizes2 Return of the Grid\StaticMap1\obj\Debug\netcoreapp2.1\StaticMap1.csprojAssemblyReference.cache
+C:\Users\Ethan\source\repos\GridExcersizes2 Return of the Grid\StaticMap1\obj\Debug\netcoreapp2.1\StaticMap1.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\source\repos\GridExcersizes2 Return of the Grid\StaticMap1\obj\Debug\netcoreapp2.1\StaticMap1.AssemblyInfoInputs.cache
+C:\Users\Ethan\source\repos\GridExcersizes2 Return of the Grid\StaticMap1\obj\Debug\netcoreapp2.1\StaticMap1.AssemblyInfo.cs
+C:\Users\Ethan\source\repos\GridExcersizes2 Return of the Grid\StaticMap1\obj\Debug\netcoreapp2.1\StaticMap1.dll
+C:\Users\Ethan\source\repos\GridExcersizes2 Return of the Grid\StaticMap1\obj\Debug\netcoreapp2.1\StaticMap1.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ethan\source\repos\GridExcersizes2 Return of the Grid\Maze1\bin\Debug\netcoreapp2.1\ThreadedMaze.deps.json
+C:\Users\Ethan\source\repos\GridExcersizes2 Return of the Grid\Maze1\bin\Debug\netcoreapp2.1\ThreadedMaze.runtimeconfig.json
+C:\Users\Ethan\source\repos\GridExcersizes2 Return of the Grid\Maze1\bin\Debug\netcoreapp2.1\ThreadedMaze.runtimeconfig.dev.json
+C:\Users\Ethan\source\repos\GridExcersizes2 Return of the Grid\Maze1\bin\Debug\netcoreapp2.1\ThreadedMaze.dll
+C:\Users\Ethan\source\repos\GridExcersizes2 Return of the Grid\Maze1\bin\Debug\netcoreapp2.1\ThreadedMaze.pdb
+C:\Users\Ethan\source\repos\GridExcersizes2 Return of the Grid\Maze1\obj\Debug\netcoreapp2.1\ThreadedMaze.csprojAssemblyReference.cache
+C:\Users\Ethan\source\repos\GridExcersizes2 Return of the Grid\Maze1\obj\Debug\netcoreapp2.1\ThreadedMaze.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\source\repos\GridExcersizes2 Return of the Grid\Maze1\obj\Debug\netcoreapp2.1\ThreadedMaze.AssemblyInfoInputs.cache
+C:\Users\Ethan\source\repos\GridExcersizes2 Return of the Grid\Maze1\obj\Debug\netcoreapp2.1\ThreadedMaze.AssemblyInfo.cs
+C:\Users\Ethan\source\repos\GridExcersizes2 Return of the Grid\Maze1\obj\Debug\netcoreapp2.1\ThreadedMaze.dll
+C:\Users\Ethan\source\repos\GridExcersizes2 Return of the Grid\Maze1\obj\Debug\netcoreapp2.1\ThreadedMaze.pdb
